@@ -10,7 +10,7 @@ Other packages and versions are listed in `requirements.txt`.
 
 ## Data
 - Testing and training data are located at `./data/test_cine/` and `./data/train/` folders. One example testing and one example traning dataset are provided for reference.
-- For testing, the `input.mat` is a series of binarized images of LV myocardium, with size of [1, N<sub>x</sub>, N<sub>y</sub>, N<sub>t</sub>]. 
+- For testing, `input.mat` is a series of binarized images of LV myocardium, with size of [1, N<sub>x</sub>, N<sub>y</sub>, N<sub>t</sub>]. 
 - For training, additional ground truth displacement `label.mat` is needed, with size of [2, N<sub>x</sub>, N<sub>y</sub>, N<sub>t</sub>].
 <br/><br/>
 
