@@ -27,3 +27,6 @@ Another way to test is to run `test_cine.py` and the corresponding testing confi
 ## Training
 Run `train.py` and the corresponding training configuration is implemented at `config_train_unet.json`.
 <br/><br/>
+
+## Contact
+Yu Wang - yw8za@virginia.edu
