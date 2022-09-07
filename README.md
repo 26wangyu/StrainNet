@@ -15,7 +15,7 @@ Other packages and versions are listed in `requirements.txt`.
 <br/><br/>
 
 ## Pre-trained Model
-A pre-trained model is shared [here](https://www.dropbox.com/s/yaoqz6gig8kovnn/model_best.pth?dl=0). This model should be at `./saved/models/StrainNet/0422_000912/model_best.pth`.
+A pre-trained model is shared [here](https://www.dropbox.com/s/yaoqz6gig8kovnn/model_best.pth?dl=0). This model should be put in `./saved/models/StrainNet/0422_000912/` folder.
 <br/><br/>
 
 ## Testing
