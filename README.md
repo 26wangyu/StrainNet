@@ -1,5 +1,5 @@
 # StrainNet
-### StrainNet: Improved Myocardial Strain Analysis of Cine MRI by Deep Learning from DENSE
+### Improved Myocardial Strain Analysis of Cine MRI by Deep Learning from DENSE
 <br/>
 
 ## Getting Started
