@@ -19,7 +19,7 @@ A pre-trained model is available [here](https://www.dropbox.com/s/yaoqz6gig8kovn
 <br/><br/>
 
 ## Testing
-A jupyter notebook demo `StrainNet_demo.ipynb` showed the inference of StrainNet, and the testing example results were embedded.
+A jupyter notebook demo `StrainNet_demo.ipynb` shows the inference of StrainNet, and the testing example results are embedded.
 
 Another way to test is to run `test_cine.py` and the corresponding testing configuration is implemented at `config_test_unet_cine.json`.
 <br/><br/>
